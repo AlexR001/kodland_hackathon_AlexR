@@ -2,8 +2,7 @@ import telebot
 from telebot import types
 import datetime
 
-API_TOKEN = '8189460802:AAFDZSHTiI9TghXHs1j-FTUmnGfZNTmiqtQ'
-bot = telebot.TeleBot(API_TOKEN)
+bot = telebot.TeleBot("*********************************")
 
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
