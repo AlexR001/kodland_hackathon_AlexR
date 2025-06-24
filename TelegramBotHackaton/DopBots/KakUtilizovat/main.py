@@ -4,7 +4,7 @@ import requests
 from io import BytesIO
 
 
-bot = telebot.TeleBot('7813796391:AAEgtVgTDhbqTkNdhPgStiMb-QIG28o7q4U')
+bot = telebot.TeleBot("*********************************")
 
 waste_info = {
     "Пластик": {
