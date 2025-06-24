@@ -3,7 +3,7 @@ from telebot import types
 import requests
 from io import BytesIO
 
-bot = telebot.TeleBot("7652405708:AAEk5506dGfO7vLjONglXOLZkd_PzmlycZQ")
+bot = telebot.TeleBot("*********************************")
 
 markup = types.ReplyKeyboardMarkup()
 btn1 = types.KeyboardButton("Что такое проблема глобального потепления?")
